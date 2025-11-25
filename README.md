@@ -13,7 +13,7 @@ DaisoNAT is a cross-platform, high-performance NAT traversal and penetration too
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/daisoai/DaisoNAT.git
+git clone https://github.com/Domado/DaisoNAT.git
 cd DaisoNAT
 make
 ```
